@@ -5,3 +5,4 @@
 - 🎤 Spoke at KubeCon NA 2025 on multi-agent systems on GKE · Showcased at AWS re:Invent 2025
 - 🎓 M.S. Data Science at Columbia · B.S. NYU Stern, cum laude
 - 💬 Ask me about anything AI agents: infrastructure, evaluation, harnesses, platforms
+- 📫 [LinkedIn](https://www.linkedin.com/in/amelia-anh-lam/) · [Devpost](https://devpost.com/amelia751)
